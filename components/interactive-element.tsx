@@ -166,7 +166,7 @@ export default function InteractiveElement() {
 
                 <div
                   className={`text-center px-6 transition-all duration-700 ${
-                    isHovering ? "opacity-10 translate-y-0" : "opacity-0 translate-y-4"
+                    isHovering ? "opacity-90 translate-y-0" : "opacity-0 translate-y-4"
                   }`}
                 >
                   <p className="text-rose-600 font-light text-sm leading-relaxed">
